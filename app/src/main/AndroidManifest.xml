@@ -21,7 +21,7 @@
         tools:ignore="GoogleAppIndexingWarning">
 
         <meta-data android:name= "noke-core-api-mobile-key"
-            android:value= "MOBILE_API_KEY_HERE"/>
+            android:value= "0d083c0c-e9a8-11ef-af13-0ad482d3c393"/>
         <activity android:name=".MainActivity"
             android:exported="true">
 
